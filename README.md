@@ -1,2 +1,2 @@
-# -Telefon-Rehberi-Console-Uygulamas-
+# -Telefon-Rehberi-Console-Uygulaması-
 Kodluyoruz Eğitimi ilk proje
